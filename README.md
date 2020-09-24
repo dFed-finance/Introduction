@@ -18,7 +18,7 @@ As the nature of the US dollar is the national debt, the essence of currency in 
 
 ## Links
 
-- [Whitepaper](https://github.com/dFed-finance/Introduction/whitepaper)
+- [Whitepaper](https://github.com/dFed-finance/Introduction/tree/master/whitepaper)
 - [Github](https://github.com/dFed-finance)
 - [Twitter](https://twitter.com/dFed_finance)
 - [Discord](https://discord.gg/ztgFdQm)
@@ -29,7 +29,7 @@ As the nature of the US dollar is the national debt, the essence of currency in 
 
 Although the Total Value Locked in DeFi has reached 10 Billion, DeFi apps are still new to the world.
 
-As a fully decentralized protocol, We will try our best to impove the project, but please use at your own risk.
+As a fully decentralized protocol, we will try our best to improve the project, but please use it at your own risk.
 
 Cheers!
 
