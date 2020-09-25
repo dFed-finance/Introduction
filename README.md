@@ -1,7 +1,7 @@
 # Introduction
 dFed.finance is a brand-new DeFi mechanism full beyond CeFi.
 
-The vision of dFed.finance is to build a worldwide central bank which can enable everyone to issue currency by any asset.
+dFed.finance is run by smart contract, the vision is to build a worldwide central bank which can enable everyone to issue currency by any asset.
 
 As the nature of the US dollar is the national debt, the essence of currency in dFed.finance is a decentralized debt which is always guaranteed and can be liquidated with no bad debts invariably.
 
