@@ -22,7 +22,7 @@ As the nature of the US dollar is the national debt, the essence of currency in 
 - [Github](https://github.com/dFed-finance)
 - [Twitter](https://twitter.com/dFed_finance)
 - [Discord](https://discord.gg/ztgFdQm)
-- [Medium](https://medium.com/@dFed.finance)
+- [Medium](https://dfed-finance.medium.com/)
 - [Email](mailto:team@dfed.finance)
 
 ## Risks
