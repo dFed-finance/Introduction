@@ -18,6 +18,7 @@ As the nature of the US dollar is the national debt, the essence of currency in 
 
 ## Links
 
+- [Application](https://app.dfed.finance) <- Web only now
 - [Whitepaper](https://dfed-finance.github.io/Introduction/whitepaper/dFed.finance.pdf)
 - [Github](https://github.com/dFed-finance)
 - [Twitter](https://twitter.com/dFed_finance)
