@@ -5,6 +5,8 @@ dFed.finance is run by smart contract, the vision is to build a worldwide centra
 
 As the nature of the US dollar is the national debt, the essence of currency in dFed.finance is a decentralized debt which is always guaranteed and can be liquidated with no bad debts invariably.
 
+## [Launch App ↗](https://app.dfed.finance/)
+
 ---
 
 ## Features
